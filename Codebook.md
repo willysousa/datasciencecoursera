@@ -1,9 +1,9 @@
-CodeBook for the tidy dataset
-Data source
+#CodeBook for the tidy dataset
+#Data source
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Feature Selection
+#Feature Selection
 
 I refer you to the README and features.txt files in the original dataset to learn more about the feature selection for this dataset. And there you will find the follow description:
 
@@ -35,6 +35,7 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
+
 The set of variables that were estimated (and kept for this assignment) from these signals are:
 
 mean(): Mean value
